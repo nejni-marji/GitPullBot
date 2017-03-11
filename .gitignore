@@ -1,0 +1,7 @@
+__pycache__
+private
+.commit
+main.py
+control.py
+reboot.sh
+revert.sh
